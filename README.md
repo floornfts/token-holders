@@ -37,6 +37,9 @@ At each snapshot:
 We welcome good-actors, with good intentions, airdropping, or adding Floor holders to their allow lists! 
 Do not use these lists to spam, abuse, harrass or engage in any illegal or immoral activity.
 
+## Are these all Floor users?
+No, these are only holders of the Floor Genesis & Invite tokens -- these were available 2021-2023 and now represent much of our core community. This is publicly available blockchain data, collected for your convenience!
+
 ## Marketing
 We love it when people share great things with our community!
 
