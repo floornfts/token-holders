@@ -8,7 +8,7 @@ Snapshots every Friday @ 23:59:59 UTC.
 Sharing something cool with Floor token holders? Let us know and we may share the news!
 ```
 
-Just want to share something awesome with the Floor community? Grab `latest.csv` and get going!
+Just want to share something awesome with the Floor community? Grab `_latest.csv` and get going!
 
 ## Lists
 * `_latest.csv` is a list of all Floor Genesis Token holders <- this is the master list
