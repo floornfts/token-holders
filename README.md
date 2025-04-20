@@ -13,7 +13,7 @@ Just want to share something awesome with the Floor community? Grab `_latest.csv
 * `_latest.csv` is a list of all Floor Genesis Token holders <- this is the master list
 * `latest_gen1.csv` is a list of all Generation 1 token holders (~200 wallets)
 * `latest_gen2.csv` is a list of all Generation 2 token holders (~500 wallets)
-* `latest_gen3.csv` is a list of all Generation 2 token holders (~3,000 wallets)
+* `latest_gen3.csv` is a list of all Generation 2 token holders (~2,000 wallets)
 
 And if you want to go big...
 * `latest_all_tokens.csv` is a list of all holders of any Floor token (~100,000 wallets)
