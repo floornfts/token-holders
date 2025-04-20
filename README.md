@@ -4,7 +4,6 @@
 A public list of wallet addresses that hold Floor Genesis tokens for permission-less partnerships! 🥳
 
 ```
-Snapshots every Friday @ 23:59:59 UTC. 
 Sharing something cool with Floor token holders? Let us know and we may share the news!
 ```
 
@@ -27,7 +26,6 @@ The Floor community is among the longest standing, and most active communities i
 * Overall a positive, and long-term oriented outlook!
 
 ## Snapshots
-Snapshots happen every Friday night @ 11:59:59pm UTC.
 
 At each snapshot:
 * `latest.csv` and `latest_genX.csv` are replaced by the current state of the snapshot.
